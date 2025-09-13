@@ -484,12 +484,11 @@ Report repository
 Releases 11
 V1.1.9
 Latest
-on Dec 17, 2023
+on sept 13, 2025
 + 10 releases
 Packages
 No packages published
-Contributors
-7
+Contributed by
 @Raj-h-hacker
 Languages
 Python
