@@ -490,13 +490,7 @@ Packages
 No packages published
 Contributors
 7
-@morpheuslord
-@krrishdholakia
-@HalilDeniz
-@Yusufibin
-@lordprime
-@Sandeep01110011
-@vishrutha25
+@Raj-h-hacker
 Languages
 Python
 100.0%
